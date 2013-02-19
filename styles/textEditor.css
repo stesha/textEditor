@@ -1,0 +1,28 @@
+body {
+    background: url("../images/bg.jpg") repeat scroll left top transparent;
+}
+textarea {
+    display: block;
+    width: 400px;
+    height: 120px;
+    padding: 8px;
+    border: 1px solid #cccccc;
+    line-height: 130%;
+    font-size: 13px;
+    margin: auto;
+    margin-top: 35px;
+}
+#fontList{
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+.arial{
+    font-family: Arial;
+}
+.courier{
+    font-family: Courier New;
+}
+.georgia{
+    font-family: Georgia;
+}
